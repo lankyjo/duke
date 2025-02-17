@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <header className='fixed top-0 left-0 w-full items-center flex justify-between p-5 bg-gradient-to-r from-black to-transparent shadow-lg shadow-black z-30'>
+    <header className='fixed top-0 left-0 w-full items-center flex justify-between p-5 bg-gradient-to-r from-black to-transparent shadow-lg shadow-black z-30 bg-black/5 backdrop-blur-md'>
         <a href="/">
         <span>
             <img width={80} src="/logo.png" alt="logo" />
