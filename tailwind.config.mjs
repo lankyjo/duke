@@ -8,8 +8,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        ivory:'#EFDFBB',
+        ivory2:'#EEDC82'
       },
     },
   },
